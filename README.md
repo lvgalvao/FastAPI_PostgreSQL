@@ -10,3 +10,7 @@ FastAPI is a great choice for developing APIs in Python because it is fast, secu
 
 You have to do few configuration in you docker container. 
 Please follow the following steps: [stakeoverflow](https://stackoverflow.com/questions/33827342/how-to-connect-mysql-workbench-to-running-mysql-inside-docker)
+
+## Install the dependences
+
+pip install
